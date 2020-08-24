@@ -1,0 +1,2 @@
+# JavaPractice
+Core Java Programs
